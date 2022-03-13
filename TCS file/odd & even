@@ -1,0 +1,9 @@
+void main() {
+  var number=2003;
+  if(2003%2==0) {
+    print('($number)Even number');
+  }
+  else{
+    print('($number)odd number');
+  }
+}
